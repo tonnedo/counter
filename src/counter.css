@@ -1,0 +1,23 @@
+.flex {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  justify-content: space-around;
+  max-width: 300px;
+  margin: auto;
+}
+
+.counter {
+  font-size: 40px;
+}
+
+.btn {
+  -ms-align-self: center;
+  align-self: center;
+}
+
+.red {
+  background-color: red;
+}
